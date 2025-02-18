@@ -115,7 +115,6 @@ body {
 }
 
 .single-note span {
-    white-space: pre-wrap;
     word-break: break-word;
     align-self: flex-start;
 }
@@ -126,7 +125,6 @@ body {
 
 
 .single-note p {
-    white-space: pre-wrap;
     word-break: break-word;
 }
 
